@@ -1,0 +1,24 @@
+Allegany County, 24001 FIPS Code, MD
+Anne Arundel County, 24003 FIPS Code, MD
+Baltimore City County, 24510 FIPS Code, MD
+Baltimore County County, 24005 FIPS Code, MD
+Calvert County, 24009 FIPS Code, Maryland
+Caroline County, 24011 FIPS Code, Maryland
+Carroll County, 24013 FIPS Code, Maryland
+Cecil County, 24015 FIPS Code, Maryland
+Charles County, 24017 FIPS Code, Maryland
+Dorchester County, 24019 FIPS Code, Maryland
+Frederick County, 24021 FIPS Code, Maryland
+Garrett County, 24023 FIPS Code, Maryland
+Harford County, 24025 FIPS Code, Maryland
+Howard County, 24027 FIPS Code, Maryland
+Kent County, 24029 FIPS Code, Maryland
+Montgomery County, 24031 FIPS Code, Maryland
+Prince George's County, 24033 FIPS Code, MD
+Queen Anne's County, 24035 FIPS Code, Maryland
+Somerset County, 24039 FIPS Code, Maryland
+St. Mary's County, 24037 FIPS Code, Maryland
+Talbot County, 24041 FIPS Code, Maryland
+Washington County, 24043 FIPS Code, Maryland
+Wicomico County, 24045 FIPS Code, Maryland
+Worcester County, 24047 FIPS Code, Maryland

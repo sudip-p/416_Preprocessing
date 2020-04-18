@@ -1,7 +1,7 @@
 Allegany County, 24001 FIPS Code, MD
 Anne Arundel County, 24003 FIPS Code, MD
 Baltimore City County, 24510 FIPS Code, MD
-Baltimore County County, 24005 FIPS Code, MD
+Baltimore County, 24005 FIPS Code, MD
 Calvert County, 24009 FIPS Code, Maryland
 Caroline County, 24011 FIPS Code, Maryland
 Carroll County, 24013 FIPS Code, Maryland
